@@ -30,15 +30,6 @@ Jinja2==3.1.6
 jiter==0.10.0
 jsonpatch==1.33
 jsonpointer==3.0.0
-langchain==0.3.25
-langchain-core>=0.3.68
-langchain-openai==0.3.18
-langchain-text-splitters==0.3.8
-langgraph==0.0.50
-langgraph-checkpoint==2.0.26
-langgraph-prebuilt==0.2.1
-langgraph-sdk==0.1.70
-langsmith==0.1.147
 MarkupSafe==3.0.2
 multidict==6.4.4
 openai==1.82.0

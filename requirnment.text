@@ -1,0 +1,10 @@
+langgraph>=0.0.40
+langchain>=0.1.0
+langchain-openai>=0.0.5
+requests>=2.31.0
+python-dotenv>=1.0.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+geopy>=2.4.0
+python-multipart>=0.0.6
